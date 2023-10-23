@@ -1,10 +1,10 @@
-package com.appdeveloperblog.ws.api.resourceservice;
+package com.appdeveloperblog.ws.api.photosservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ResourceServiceApplicationTests {
+class PhotosServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

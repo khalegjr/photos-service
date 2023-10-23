@@ -1,4 +1,4 @@
-package com.appdeveloperblog.ws.api.resourceservice.security;
+package com.appdeveloperblog.ws.api.photosservice.security;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.core.GrantedAuthority;

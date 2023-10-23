@@ -1,13 +1,13 @@
-package com.appdeveloperblog.ws.api.resourceservice;
+package com.appdeveloperblog.ws.api.photosservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ResourceServiceApplication {
+public class PhotosServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ResourceServiceApplication.class, args);
+		SpringApplication.run(PhotosServiceApplication.class, args);
 	}
 
 }

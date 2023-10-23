@@ -1,4 +1,4 @@
-package com.appdeveloperblog.ws.api.resourceservice.security;
+package com.appdeveloperblog.ws.api.photosservice.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
